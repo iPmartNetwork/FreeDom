@@ -2,8 +2,9 @@
 # FREEDOM
  A Simple Bash Script With TUI For Setting Up Ubuntu Server
 
-🏹 Brave hearts unite for a Free Iran, lighting the path to a brighter future with unwavering determination.
+لطفا تمامی اسکریپت ها را روی یک سرور اجرا نکنید ...
 
+ 
 What does this script do? you can select to:
 1. Update & Cleanup Server 
 2. Install Essential Packages 
@@ -35,6 +36,11 @@ What does this script do? you can select to:
 It's highly recommended to run this script only on a fresh install of Ubuntu 22.04.
 ```
 curl -O https://raw.githubusercontent.com/ipmartnetwork/FreeDom/main/Freedom.sh && chmod +x Freedom.sh && sed -i -e 's/\r$//' Freedom.sh && sudo apt update && sudo apt install -y dialog && ./Freedom.sh
+```
+برای اجرای مجدد اسکریپت 
+
+```
+./Freedom.sh
 ```
 ## Access Panels 
 1. If you have installed Reality-EZPZ, you can access its TUI by running the following command:

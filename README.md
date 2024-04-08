@@ -1,4 +1,8 @@
-# FreeDom
+<div align="center">
+<img src="01.png" width="600px" >
+</div>
+
+
 # FREEDOM
  A Simple Bash Script With TUI For Setting Up Ubuntu Server
 
